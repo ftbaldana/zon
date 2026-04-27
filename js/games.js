@@ -37262,7 +37262,7 @@ function setCorrectResolution() {
     game.scale.refresh()
 }
 function setBG() {
-    document.body.style.backgroundImage = "url('assets/img/background.png')";
+    document.body.style.backgroundImage = "url('https://cdn.jsdelivr.net/gh/ftbaldana/zon@main/assets/img/background.png')";
     document.body.style.backgroundSize = "1px " + window.innerHeight + "px"
 }
 function onGameResize() {
