@@ -14,15 +14,15 @@
 
 
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ftbaldana/zon@main/css/normalize.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ftbaldana/zon@main/css/game.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ftbaldana/zon@6bc6978cc4e385fe1e72bf4b28444c10b22dd68f/css/normalize.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ftbaldana/zon@6bc6978cc4e385fe1e72bf4b28444c10b22dd68f/css/game.css">
 
 
 </head>
 <body>
 
     <div id="wrongRotation">
-        <img src="https://cdn.jsdelivr.net/gh/ftbaldana/zon@main/assets/img/rotate_screen.png" alt=""/>
+        <img src="https://cdn.jsdelivr.net/gh/ftbaldana/zon@6bc6978cc4e385fe1e72bf4b28444c10b22dd68f/assets/img/rotate_screen.png" alt=""/>
     </div>
 
     <div id="blackk"></div>
